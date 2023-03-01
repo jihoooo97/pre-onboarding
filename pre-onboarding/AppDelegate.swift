@@ -1,16 +1,7 @@
-//
-//  AppDelegate.swift
-//  pre-onboarding
-//
-//  Created by 유지호 on 2023/02/27.
-//
-
 import UIKit
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
-
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
